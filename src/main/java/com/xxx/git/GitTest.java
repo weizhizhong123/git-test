@@ -7,6 +7,6 @@ public class GitTest {
         System.out.println("git push");
         System.out.println("git push2");
         System.out.println("git pull1");
-
+        System.out.println("gitee test");
     }
 }
